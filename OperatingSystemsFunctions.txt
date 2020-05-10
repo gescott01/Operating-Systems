@@ -1,0 +1,3 @@
+One function of an operating system is to turn the computer on. This can be sometimes done in a variety of ways. One way is the on/off button.
+Other times you may restart it with a series of commands while the computer is on.
+
